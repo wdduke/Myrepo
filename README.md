@@ -17,3 +17,9 @@ rundown:上传了一个文献综述写法、文献阅读方法与笔记方法的
 file name: **latex_chinesefontsetupmd.md**
 
 rundown：上传了一个记录在latex中设置中文字体的笔记文档。包括了代码和找到需要文件的方法，忘记了或者需要的时候可以查到。
+
+## 4. how to organize a CFD simulation research paper?
+
+file name：**organize_CFD_research_paper.md**
+
+rundown：上传了一个CFD仿真类论文写作的大纲与所包含内容的详细介绍，以便写作时参考对比，防止缺少某些重要部分使文章不够完整、专业、严谨。
